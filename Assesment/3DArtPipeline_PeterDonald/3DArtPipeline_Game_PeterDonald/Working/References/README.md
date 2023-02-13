@@ -98,5 +98,36 @@
         </ul>
       </td>
     </tr>
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="Crowfall Weapons" src="nik-overdiek-cr-weapons-01.jpg"/>
+        <img alt="Crowfall Weapons" src="GreenBlade.png"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: Crowfall Weapons</li>
+          <li>Artist: Nik Overdiek</li>
+          <li>Point of Interest: Blade coloring, cresent weapon.</li>
+          <li><a href="https://www.artstation.com/artwork/ba1bOr">Source URL</a></li>
+          <li><a href="https://cdnb.artstation.com/p/assets/images/images/024/493/403/large/nik-overdiek-cr-weapons-01.jpg?1582608560">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="Crowfall Weapons" src="nik-overdiek-cr-shields-01.jpg"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: Crowfall Weapons</li>
+          <li>Artist: Nik Overdiek</li>
+          <li>Point of Interest: Metal Layering.</li>
+          <li><a href="https://www.artstation.com/artwork/ba1bOr">Source URL</a></li>
+          <li><a href="https://cdna.artstation.com/p/assets/images/images/024/493/402/large/nik-overdiek-cr-shields-01.jpg?1582608648">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
+
+
   </tbody>
 </table>
