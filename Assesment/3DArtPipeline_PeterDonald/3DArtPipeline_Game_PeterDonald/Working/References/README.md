@@ -56,5 +56,47 @@
         </ul>
       </td>
     </tr>
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="For Honor weapon" src="ye-hang-1.jpg"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: For Honor weapon</li>
+          <li>Artist: Ye Hang</li>
+          <li>Point of Interest: Interesting gems, and using gems as alternative to vanilla texture fillter.</li>
+          <li><a href="https://www.artstation.com/artwork/OmgK2v">Source URL</a></li>
+          <li><a href="https://cdnb.artstation.com/p/assets/images/images/047/647/365/large/ye-hang-1.jpg?1648089572">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="For Honor weapon" src="Snakeskin-ye-hang-1.jpg"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: For Honor weapon</li>
+          <li>Artist: Ye Hang</li>
+          <li>Point of Interest: Snakeskin texture.</li>
+          <li><a href="https://www.artstation.com/artwork/4XPgm1">Source URL</a></li>
+          <li><a href="https://cdna.artstation.com/p/assets/images/images/047/646/720/large/ye-hang-1.jpg?1648087033">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="For Honor weapon" src="Snakeskin-ye-hang-2.jpg"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: For Honor weapon</li>
+          <li>Artist: Ye Hang</li>
+          <li>Point of Interest: Snakeskin texture.</li>
+          <li><a href="https://www.artstation.com/artwork/4XPgm1">Source URL</a></li>
+          <li><a href="https://cdna.artstation.com/p/assets/images/images/047/646/726/large/ye-hang-2.jpg?1648087057">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
