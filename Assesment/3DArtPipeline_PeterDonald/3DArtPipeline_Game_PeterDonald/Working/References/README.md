@@ -128,6 +128,20 @@
       </td>
     </tr>
 
+    <tr valign="top">
+      <td width="50%" align="right">
+        <img alt="Heater Shield - Mordhau Fan Art" src="billy-jackman-shield-iray-rear-1.jpg"/>
+      </td>
+      <td>
+        <ul>
+          <li>Description: Heater Shield - Mordhau Fan Art</li>
+          <li>Artist: Billy Jackman</li>
+          <li>Point of Interest: Shape of grip.</li>
+          <li><a href="https://www.artstation.com/artwork/oOdmXW">Source URL</a></li>
+          <li><a href="https://cdnb.artstation.com/p/assets/images/images/018/526/135/large/billy-jackman-shield-iray-rear-1.jpg?1559705939">Image URL</a></li>
+        </ul>
+      </td>
+    </tr>
 
   </tbody>
 </table>
