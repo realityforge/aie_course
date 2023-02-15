@@ -2,3 +2,5 @@
 /*.iml
 # Maya project that was only really used to cleanup UVs
 /modules/3D_Art_Pipeline/Substance_Painter/spiderbot.mb
+# Local temp directories
+**/tmp/*
