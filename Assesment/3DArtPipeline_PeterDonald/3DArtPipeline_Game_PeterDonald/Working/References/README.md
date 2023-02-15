@@ -127,7 +127,6 @@
         </ul>
       </td>
     </tr>
-
     <tr valign="top">
       <td width="50%" align="right">
         <img alt="Heater Shield - Mordhau Fan Art" src="billy-jackman-shield-iray-rear-1.jpg"/>
@@ -142,6 +141,5 @@
         </ul>
       </td>
     </tr>
-
   </tbody>
 </table>
