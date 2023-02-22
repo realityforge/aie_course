@@ -1,3 +1,2 @@
-Shield:
-* Make the planes flat around cuts on bottom left and top right
-* Correct the scale
+* Correct the scale of objects
+* "Move the object to the centre/origin of the world space (the grid is the ground)."
