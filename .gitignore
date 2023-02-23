@@ -15,3 +15,6 @@ Assesment/3DArtPipeline_PeterDonald/3DArtPipeline_Game_PeterDonald/Production/Su
 
 # Ignore the Substance painter autosaves
 **/*_autosave_*.spp
+
+# Ignore the Substance painter lock files
+**/*.spp.painter_lock
