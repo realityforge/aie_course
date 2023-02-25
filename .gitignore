@@ -12,6 +12,7 @@ modules/3D_Art_Pipeline/Assesment/3DArtPipeline_PeterDonald/3DArtPipeline_Game_P
 # Swatch files are generated thumbnails for shader used to speed up hypershade
 # and there is no need to check in as they will be regenerated when opened.
 **/.mayaSwatches/*.swatches
+**/.mayaSwatches/*.swatch
 
 # Ignore the Substance painter autosaves
 **/*_autosave_*.spp
