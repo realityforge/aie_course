@@ -11,5 +11,5 @@ export BASE_DIRECTORY="${BASE_NAME}/${MODULE}_${VARIANT}_${NAME}"
 
 export FILES=`git ls-tree -r --name-only HEAD | grep "^${BASE_DIRECTORY}\|^${REPORT_FILE}" | grep -v "${BASE_DIRECTORY}/Working" | grep -v "${BASE_DIRECTORY}/TODO.txt" | grep -v "Production/SubstancePainter/"`
 
-rm "${BASE_NAME}.zip"
+rm -f "${BASE_NAME}.zip"
 zip -9 "${BASE_NAME}.zip" ${FILES}
