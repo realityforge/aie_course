@@ -4,3 +4,5 @@
 *.fbx -text
 modules/3D_Art_Pipeline/Introduction_to_Lighting/LightingProject/scenes/PUP_Cabin.mb filter=lfs diff=lfs merge=lfs -text
 modules/3D_Art_Pipeline/Substance_Painter/spiderbot.spp filter=lfs diff=lfs merge=lfs -text
+vendor/modules/Environment_Pipeline/Lighting/Test1_Adjustments.zip filter=lfs diff=lfs merge=lfs -text
+vendor/modules/Environment_Pipeline/Lighting/Test2_Replication.zip filter=lfs diff=lfs merge=lfs -text
