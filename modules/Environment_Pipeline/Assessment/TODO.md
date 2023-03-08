@@ -1,5 +1,7 @@
 # TODO
 
+* Use GlassDoor to determine contract rates as part of cost estimation.
+
 * shiny floor in hallway
 * Colored lights above corridor (orange ala SW) with shadow bars also appearing ...
 * tattoo/circuits/runes - engraving on the arches or insets that glow mildly...
